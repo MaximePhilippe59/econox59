@@ -9,7 +9,7 @@
 
 # English (default)
 # -----------------
-fr: &DEFAULT_FR
+en: &DEFAULT_EN
   header:
     title: Bienvenue chez Econox!
     text: DÉCOUVREZ NOS PRODUITS
