@@ -1,5 +1,18 @@
 // Styling for the services section
 .service-heading {
-  margin: 15px 0;
+  margin-top: 10px;
   text-transform: none;
+}
+.custom-service-icon {
+  width: 300px;
+  height: 200px;
+  align-items: center;
+  margin: 15px auto 20px auto;
+  justify-content: center;
+}
+
+.custom-service-icon img {
+  max-width: 100%;
+  max-height: 100%;
+  display: block;
 }
